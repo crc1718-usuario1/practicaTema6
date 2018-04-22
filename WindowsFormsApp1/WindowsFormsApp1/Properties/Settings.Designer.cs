@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Práctica_6._1.Properties
+namespace WindowsFormsApp1.Properties
 {
 
 

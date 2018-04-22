@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C2203539-13BA-464F-84B6-E27289D969F7}</ProjectGuid>
+    <ProjectGuid>{3641A0A8-2441-4689-992E-9BA38448B4B2}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Práctica_6._1</RootNamespace>
-    <AssemblyName>Práctica 6.1</AssemblyName>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

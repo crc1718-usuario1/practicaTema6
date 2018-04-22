@@ -1,4 +1,4 @@
-﻿namespace Práctica_6._1
+﻿namespace WindowsFormsApp1
 {
     partial class Form1
     {
